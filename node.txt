@@ -1,0 +1,12 @@
+Node.js: The JavaScript Runtime
+
+Node.js is a powerful JavaScript runtime built on Chrome's V8 JavaScript engine. It allows developers to run JavaScript on the server-side, enabling the creation of scalable and efficient network applications.
+
+Key features of Node.js:
+1. Asynchronous and Event-Driven
+2. Single-Threaded but Highly Scalable
+3. Cross-Platform
+4. Large Ecosystem (npm)
+5. Fast Execution
+
+Node.js is widely used for building web servers, real-time applications, command-line tools, and more. Its non-blocking I/O model makes it an excellent choice for developing high-performance, data-intensive applications.
